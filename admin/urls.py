@@ -19,4 +19,4 @@ from accounts.views import accounts_view
 
 urlpatterns = [
     path('account/', accounts_view),
-    path('admin/', admin.site.urls),]
+    path('admin/', admin.site.urls),]  # 管理後台 key word
