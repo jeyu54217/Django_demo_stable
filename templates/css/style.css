@@ -22,7 +22,7 @@ img{
 .footer_main{
 	width: 100%;
 	height: auto;
-	background: url(footer_bg.jpg);
+	background: url(images/footer_bg.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: scroll;
